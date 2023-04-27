@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Testing deployment to AWS ElasticBeanStalk.
+          Testing successful deployment to AWS ElasticBeanStalk.
         </p>
         <a
           className="App-link"
